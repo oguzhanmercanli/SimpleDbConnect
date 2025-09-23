@@ -1,0 +1,6 @@
+C:\Users\omerc\source\repos\Testing\SimpleDbConnect\SimpleDbConnect\bin\Debug\SimpleDbConnect.dll
+C:\Users\omerc\source\repos\Testing\SimpleDbConnect\SimpleDbConnect\bin\Debug\SimpleDbConnect.pdb
+C:\Users\omerc\source\repos\Testing\SimpleDbConnect\SimpleDbConnect\obj\Debug\SimpleDbConnect.csproj.AssemblyReference.cache
+C:\Users\omerc\source\repos\Testing\SimpleDbConnect\SimpleDbConnect\obj\Debug\SimpleDbConnect.csproj.CoreCompileInputs.cache
+C:\Users\omerc\source\repos\Testing\SimpleDbConnect\SimpleDbConnect\obj\Debug\SimpleDbConnect.dll
+C:\Users\omerc\source\repos\Testing\SimpleDbConnect\SimpleDbConnect\obj\Debug\SimpleDbConnect.pdb
